@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Link to my project: https://piyush-parmar-28.github.io/React-Note-App/
 
 ## Available Scripts
